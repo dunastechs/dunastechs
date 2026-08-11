@@ -23,7 +23,7 @@ Construímos soluções tecnológicas que conectam:
 
 Nosso primeiro grande produto nasce dessa visão.
 
-### 🏜️ POTI - Plataforma de Turismo Inteligente do Rio Grande do Norte
+### 🏜️ POTI - Plataforma Observatória do Turismo Inteligente
 
 <p align="center"> <strong>O turismo deixa de ser apenas uma experiência.<br> Ele se transforma em dado, inteligência e evolução.</strong> </p>
 
