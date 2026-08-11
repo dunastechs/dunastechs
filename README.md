@@ -29,7 +29,7 @@ Nosso primeiro grande produto nasce dessa visão.
 
 #### 🧭 O que é o POTI?
 
-O POTI é uma Plataforma de Turismo Inteligente do Rio Grande do Norte criada para transformar a experiência dos turistas em inteligência para os destinos turísticos.
+O POTI é uma Plataforma Observatória do Turismo Inteligente do Rio Grande do Norte criada para transformar a experiência dos turistas em inteligência para os destinos turísticos.
 
 Através do POTI, o turista pode:
 
