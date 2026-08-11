@@ -1,12 +1,10 @@
-🏜️ DUNAS TECH
-
 <h1 align="center"> DUNAS TECH </h1>
 
 <p align="center"> <strong>Onde território, tecnologia e inteligência transformam o turismo.</strong> </p>
 
 <p align="center"> 🌵 Tecnologia &nbsp;•&nbsp; 🧠 Inteligência &nbsp;•&nbsp; 🏜️ Território &nbsp;•&nbsp; 🌎 Turismo </p>
 
-🌅 Sobre a DunasTech
+### 🌅 Sobre a DunasTech
 
 A **DunasTech é uma startup de tecnologia** que nasce no Rio Grande do Norte com uma visão:
 
@@ -16,37 +14,35 @@ Inspirada pelas dunas do Rio Grande do Norte, que estão sempre em movimento, se
 
 Construímos soluções tecnológicas que conectam:
 
-🧳 Turistas
-📍 Destinos turísticos
-🏛️ Gestão pública
-🏨 Empresas e negócios locais
-📊 Dados e indicadores
-🤖 Inteligência tecnológica 
+- 🧳 Turistas
+- 📍 Destinos turísticos
+- 🏛️ Gestão pública
+- 🏨 Empresas e negócios locais
+- 📊 Dados e indicadores
+- 🤖 Inteligência tecnológica 
 
 Nosso primeiro grande produto nasce dessa visão.
 
-🏜️ POTI
-Plataforma de Turismo Inteligente do Rio Grande do Norte
+### 🏜️ POTI - Plataforma de Turismo Inteligente do Rio Grande do Norte
 
 <p align="center"> <strong>O turismo deixa de ser apenas uma experiência.<br> Ele se transforma em dado, inteligência e evolução.</strong> </p>
 
-🧭 O que é o POTI?
+#### 🧭 O que é o POTI?
 
-O POTI — Plataforma de Turismo Inteligente do Rio Grande do Norte é uma plataforma criada para transformar a experiência dos turistas em inteligência para os destinos turísticos.
+O POTI é uma Plataforma de Turismo Inteligente do Rio Grande do Norte criada para transformar a experiência dos turistas em inteligência para os destinos turísticos.
 
 Através do POTI, o turista pode:
 
-⭐ Avaliar destinos;
-📝 Compartilhar experiências;
-📍 Avaliar pontos turísticos;
-🏨 Avaliar serviços e estabelecimentos;
-💬 Contribuir com percepções sobre o destino;
-📊 Participar ativamente da construção da inteligência turística.
+- ⭐ Avaliar destinos;
+- 📝 Compartilhar experiências;
+- 📍 Avaliar pontos turísticos;
+- 🏨 Avaliar serviços e estabelecimentos;
+- 💬 Contribuir com percepções sobre o destino;
+- 📊 Participar ativamente da construção da inteligência turística.
 
 Essas interações alimentam um sistema de dados capaz de ajudar a compreender como os destinos estão sendo percebidos por quem realmente os vivencia.
 
-🧠 ISA
-Índice de Satisfação e Atratividade
+#### 🧠 ISA - Índice de Satisfação e Atratividade
 
 A participação do turista não termina em uma avaliação.
 
@@ -81,7 +77,7 @@ O ISA funciona como um indicador inteligente construído a partir das percepçõ
 
 A ideia é transformar milhares de experiências individuais em uma visão coletiva sobre o turismo potiguar.
 
-🚀 Como o POTI funciona?
+#### 🚀 Como o POTI funciona?
 
 ```text
       🧳 TURISTA
@@ -150,29 +146,29 @@ A tecnologia precisa se adaptar.
 
 🏜️ Dunas em movimento. Dados em evolução. Turismo inteligente.
 
-⚡ Visão
+### ⚡ Visão
 
 Construir uma nova geração de soluções para o turismo, onde dados e participação social ajudam destinos a entender seus visitantes, identificar oportunidades e tomar decisões melhores.
 
-🎯 Missão
+### 🎯 Missão
 
 Transformar experiências turísticas em inteligência capaz de melhorar destinos, conectar pessoas e impulsionar o turismo do Rio Grande do Norte.
 
-🔭 Futuro
+### 🔭 Futuro
 
 O POTI é apenas o começo.
 
 A visão da DunasTech é construir um ecossistema de inteligência turística capaz de evoluir continuamente através de:
 
-🤖 Inteligência Artificial;
-📊 Ciência de Dados;
-🗺️ Geointeligência;
-📍 Dados geográficos;
-⭐ Sistemas de avaliação;
-📈 Indicadores inteligentes;
-🧠 Análise de comportamento;
-🌎 Inteligência territorial.
-🛠️ Tecnologia
+- 🤖 Inteligência Artificial;
+- 📊 Ciência de Dados;
+- 🗺️ Geointeligência;
+- 📍 Dados geográficos;
+- ⭐ Sistemas de avaliação;
+- 📈 Indicadores inteligentes;
+- 🧠 Análise de comportamento;
+- 🌎 Inteligência territorial.
+- 🛠️ Tecnologia
 
 O ecossistema da DunasTech poderá integrar diferentes tecnologias para transformar dados em inteligência.
 
@@ -197,7 +193,7 @@ O ecossistema da DunasTech poderá integrar diferentes tecnologias para transfor
                     🧠 ISA
                        │
                        ▼
-              📈 INTELIGÊNCIA
+               📈 INTELIGÊNCIA
 ```
 
               
@@ -214,8 +210,6 @@ Da cultura à gastronomia.
 Nosso objetivo é usar tecnologia para ajudar a transformar toda essa riqueza em experiências melhores e decisões mais inteligentes.
 
 🧑💻 Construído pela DunasTech
-
-A **DunasTech é uma startup** de tecnologia e laboratório de inovação voltado para criar soluções que conectam pessoas, território e dados.
 
 O POTI representa o primeiro passo dessa jornada.
 
